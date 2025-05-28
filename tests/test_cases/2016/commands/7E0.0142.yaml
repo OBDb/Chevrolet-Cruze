@@ -6,6 +6,6 @@ test_cases:
 - response: 7E804414231FF
   expected_values:
     VPWR: 12.799
-- response: 7E80441423BD2
+- response: 7E80441423B7A
   expected_values:
-    VPWR: 15.314
+    VPWR: 15.226
