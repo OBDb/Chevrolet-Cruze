@@ -7,6 +7,9 @@ test_cases:
     ALCH_PCT: 9.80392
   response: '7E803415219'
 - expected_values:
+    ALCH_PCT: 10.98039
+  response: 7E80341521C
+- expected_values:
     ALCH_PCT: 12.94118
   response: '7E803415221'
 - expected_values:
