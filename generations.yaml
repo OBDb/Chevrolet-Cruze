@@ -1,10 +1,33 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Cruze"
+
 generations:
   - name: "First Generation"
     start_year: 2008
+    end_year: 2012
+    description: "The original Chevrolet Cruze was a globally developed compact car built on GM's Delta II platform, internally designated J300. Initially launched in South Korea and gradually rolled out worldwide, it represented GM's first truly global compact car program. In most markets, it was available as a four-door sedan, with a five-door hatchback added later. Engine options varied by region but typically included 1.4L to 2.0L gasoline engines and various diesel options, with the turbocharged 1.4L being the most common in North America. The interior featured a dual-cockpit design with better materials than previous GM compact cars, while safety was emphasized with up to ten airbags in some markets."
+
+  - name: "First Generation (2013 Facelift)"
+    start_year: 2013
+    end_year: 2014
+    description: "The Cruze was given a mild facelift for 2013, unveiled at the 2012 Geneva Motor Show. Changes included a new front fascia with redesigned air vents around the fog lamps, and the grille and headlamps also received minor updates. New alloy wheels were offered, and GM's optional MyLink entertainment system became available. This model was first sold in South Korea, then Malaysia, then in other markets."
+
+  - name: "First Generation (2015 Refresh)"
+    start_year: 2015
     end_year: 2016
-    description: "The original Chevrolet Cruze was a globally developed compact car built on GM's Delta II platform. Initially launched in South Korea and gradually rolled out worldwide, it represented GM's first truly global compact car program. In most markets, it was available as a four-door sedan, with a five-door hatchback added later. Engine options varied by region but typically included 1.4L to 2.0L gasoline engines and various diesel options, with the turbocharged 1.4L being the most common in North America. The interior featured a dual-cockpit design with better materials than previous GM compact cars, while safety was emphasized with up to ten airbags in some markets. A significant refresh in 2015 updated the styling and technology. The first-generation Cruze was generally well-received for its solid construction, fuel efficiency, and value, helping to improve Chevrolet's reputation in the compact segment after the underwhelming Cobalt."
+    description: "Chevrolet announced a refreshed 2015-model Cruze with an updated grille and a more angular shape similar to that of the Chevrolet Malibu. For Asian markets, the car's rear end was restyled with new lamps, trunk lid, and bumper; the Chinese version also got a market-specific redesigned front end. The rear end in other markets remained unchanged."
 
   - name: "Second Generation"
-    start_year: 2015
-    end_year: 2019
-    description: "The second-generation Cruze was built on GM's D2XX platform and featured more refined styling with a lower, sleeker profile. In North America, it was available as both a sedan and hatchback, powered primarily by a revised 1.4L turbocharged four-cylinder engine paired with either a six-speed manual or automatic transmission, with a 1.6L diesel option added later. The interior saw significant improvements in design, material quality, and technology, featuring a standard 7-inch (later 8-inch) touchscreen with Apple CarPlay and Android Auto compatibility. Overall vehicle weight was reduced by up to 250 pounds compared to its predecessor, improving both performance and efficiency. Advanced safety features including automatic emergency braking, lane keep assist, and blind-spot monitoring became available. Despite receiving positive reviews for its refined driving experience, efficiency, and technology, the Cruze fell victim to shifting consumer preferences toward SUVs, with production for North America ending in 2019 as part of GM's restructuring. However, the model continued in other markets, particularly China, where a refreshed version remained available."
+    start_year: 2016
+    end_year: 2018
+    description: "The second-generation Cruze (J400) was built on GM's D2XX platform and featured more refined styling with a lower, sleeker profile. It began sales in North America in early 2016. The car was available as both a sedan and hatchback, powered primarily by a revised 1.4L turbocharged four-cylinder engine producing 153 horsepower, paired with either a six-speed manual or automatic transmission, with a 1.6L diesel option added in 2017. The interior saw significant improvements in design, material quality, and technology, featuring a standard touchscreen with Apple CarPlay and Android Auto compatibility. The 2016 Cruze also came equipped with advanced features including automatic emergency braking, lane keep assist, and blind-spot monitoring. The hatchback version was unveiled at the 2016 North American International Auto Show and went on sale in late 2016 as a 2017 model."
+
+  - name: "Second Generation (2019 Facelift)"
+    start_year: 2019
+    end_year: 2023
+    description: "For 2019, the Cruze received a mid-cycle facelift, which made its debut in April 2018. Changes included the addition of a lower-priced LS model for the Cruze Hatchback, the deletion of the six-speed manual transmission option (all Cruze models now came equipped with an automatic transmission), all-new third-generation MyLink systems, and a revised RS Package for LT and Premier models. The 2019 Cruze went on sale in November 2018. Production ended in North America (US and Mexico) in March 2019, but continued in Argentina until December 2023."
+
+  - name: "Third Generation"
+    start_year: 2025
+    end_year: null
+    description: "The Cruze name was revived as a rebadged Chevrolet Monza for the Middle East market starting in 2025. The 2026 Chevrolet Cruze was unveiled for the Middle East market, marking the return of the nameplate after a multi-year hiatus in most global markets."
