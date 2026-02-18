@@ -31,10 +31,6 @@ supported_commands_by_ecu:
   - 0149:APP_D
   - 014A:APP_E
   - 014C:TAC_PCT
-  - 014D:MIL_TIME
-  - 014E:CLR_TIME
-  - 0155:STSO2FT1
-  - 0156:LGSO2FT1
   - 7E0.7E8.22000D:CHEVROLET_VSS
 unsupported_commands_by_ecu:
   "760":
