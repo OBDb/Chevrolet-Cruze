@@ -9,5 +9,8 @@ test_cases:
     7E8044131000C
     7E8044131000C
 - expected_values:
-    CLR_DIST: 219
-  response: 7E804413100DB
+    CLR_DIST: 478
+  response: 7E804413101DE
+- expected_values:
+    CLR_DIST: 479
+  response: 7E804413101DF
