@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2220E3|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_BP_ACT_V2: 0
+    CHEVROLET_BP_ACT: 0
   response: 7E8056220E30000
 - expected_values:
-    CHEVROLET_BP_ACT_V2: 7.33
-  response: 7E8056220E302DD
+    CHEVROLET_BP_ACT: 56.21
+  response: 7E8056220E315F5
 - expected_values:
-    CHEVROLET_BP_ACT_V2: 63.58
+    CHEVROLET_BP_ACT: 63.58
   response: 7E8056220E318D6
