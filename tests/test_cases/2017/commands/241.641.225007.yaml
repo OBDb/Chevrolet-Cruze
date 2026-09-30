@@ -1,5 +1,5 @@
 command_id: 241.641.225007
 test_cases:
 - expected_values:
-    CHEVROLET_TP_RR: 165
+    CRUZE_TP_RR_241: 165
   response: 641056250070A50
