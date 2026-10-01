@@ -7,5 +7,5 @@ test_cases:
     CRUZE_MAF: 2.55
   response: 7E80562001000FF
 - expected_values:
-    CRUZE_MAF: 59.4
-  response: '7E8056200101734'
+    CRUZE_MAF: 58.94
+  response: '7E8056200101706'

@@ -4,8 +4,8 @@ test_cases:
     CRUZE_FLI: 56.07843
   response: 7E80462002F8F
 - expected_values:
-    CRUZE_FLI: 78.03922
-  response: 7E80462002FC7
+    CRUZE_FLI: 61.96078
+  response: 7E80462002F9E
 - expected_values:
     CRUZE_FLI: 96.86275
   response: 7E80462002FF7
