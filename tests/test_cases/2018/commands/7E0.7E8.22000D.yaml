@@ -1,34 +1,34 @@
 command_id: 7E0.7E8.22000D
 test_cases:
 - expected_values:
-    CHEVROLET_VSS: 0
+    CRUZE_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    CHEVROLET_VSS: 0
+    CRUZE_VSS: 0
   response: |-
     7E80462000D00
     7EA0462000D00
 - expected_values:
-    CHEVROLET_VSS: 32
+    CRUZE_VSS: 32
   response: |-
     7E80462000D20
     7EA0462000D1E
 - expected_values:
-    CHEVROLET_VSS: 53
+    CRUZE_VSS: 53
   response: 7E80462000D35
 - expected_values:
-    CHEVROLET_VSS: 62
+    CRUZE_VSS: 62
   response: |-
     7E80462000D3E
     7EA0462000D3B
     7EA0462000D3B
 - expected_values:
-    CHEVROLET_VSS: 89
+    CRUZE_VSS: 89
   response: |-
     7E80462000D59
     7EA0462000D55
 - expected_values:
-    CHEVROLET_VSS: 26
+    CRUZE_VSS: 26
   response: |-
     7EA0462000D18
     7E80462000D1A
