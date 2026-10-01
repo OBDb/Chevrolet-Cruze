@@ -7,5 +7,5 @@ test_cases:
     CRUZE_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    CRUZE_VSS: 112
-  response: 7E80462000D70
+    CRUZE_VSS: null
+  response: 7E80462000DFF
