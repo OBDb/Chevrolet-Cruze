@@ -4,5 +4,5 @@ test_cases:
     CRUZE_CABIN_AC_HIGH_SIDE_V: 0.9
   response: 7E8046211442D
 - expected_values:
-    CRUZE_CABIN_AC_HIGH_SIDE_V: 1.92
-  response: '7E80462114460'
+    CRUZE_CABIN_AC_HIGH_SIDE_V: 2.28
+  response: '7E80462114472'

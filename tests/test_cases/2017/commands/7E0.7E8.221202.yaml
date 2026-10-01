@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CRUZE_MIS_HISTORY_2: 3
   response: '7E8056212020003'
+- expected_values:
+    CRUZE_MIS_HISTORY_2: 4
+  response: '7E8056212020004'

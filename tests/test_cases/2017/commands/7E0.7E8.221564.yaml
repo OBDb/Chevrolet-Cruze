@@ -4,5 +4,5 @@ test_cases:
     CRUZE_AC_HIGH_SIDE_P: 78.78
   response: '7E80462156427'
 - expected_values:
-    CRUZE_AC_HIGH_SIDE_P: 179.78
-  response: '7E80462156459'
+    CRUZE_AC_HIGH_SIDE_P: 218.16
+  response: 7E8046215646C
