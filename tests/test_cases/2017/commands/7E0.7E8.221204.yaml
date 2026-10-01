@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.221204
 test_cases:
 - expected_values:
-    CHEVROLET_MIS_HISTORY_4: 0
+    CRUZE_MIS_HISTORY_4: 0
   response: '7E8056212040000'
 - expected_values:
-    CHEVROLET_MIS_HISTORY_4: 1
+    CRUZE_MIS_HISTORY_4: 1
   response: '7E8056212040001'
 - expected_values:
-    CHEVROLET_MIS_HISTORY_4: 2
+    CRUZE_MIS_HISTORY_4: 2
   response: '7E8056212040002'
+- expected_values:
+    CRUZE_MIS_HISTORY_4: 3
+  response: '7E8056212040003'

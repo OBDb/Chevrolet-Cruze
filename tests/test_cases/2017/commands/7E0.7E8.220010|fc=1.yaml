@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220010|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_MAF: 0
+    CRUZE_MAF: 0
   response: '7E8056200100000'
 - expected_values:
-    CHEVROLET_MAF: 2.55
+    CRUZE_MAF: 2.55
   response: 7E80562001000FF
 - expected_values:
-    CHEVROLET_MAF: 59.4
+    CRUZE_MAF: 59.4
   response: '7E8056200101734'

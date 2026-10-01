@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.221940
+test_cases:
+- expected_values:
+    CRUZE_ATF_T_VAR_1: 75
+  response: |-
+    7EA0462194073
+    7E80462194073

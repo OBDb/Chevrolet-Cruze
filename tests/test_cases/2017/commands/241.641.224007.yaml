@@ -1,5 +1,5 @@
 command_id: 241.641.224007
 test_cases:
 - expected_values:
-    CHEVROLET_TID_RR: 1485955092
+    CRUZE_TID_RR: 1485955092
   response: '641076240075891E014'
