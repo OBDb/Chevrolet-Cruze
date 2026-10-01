@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220042
 test_cases:
 - expected_values:
-    CRUZE_CTRL_MODULE_V: 0
+    CHEVROLET_M_CTRL_MODULE_V: 0
   response: '7E8056200420000'
 - expected_values:
-    CRUZE_CTRL_MODULE_V: 13.818
+    CHEVROLET_M_CTRL_MODULE_V: 13.818
   response: 7E80562004235FA
 - expected_values:
-    CRUZE_CTRL_MODULE_V: 14.861
-  response: 7E8056200423A0D
+    CHEVROLET_M_CTRL_MODULE_V: 14.849
+  response: 7E8056200423A01
