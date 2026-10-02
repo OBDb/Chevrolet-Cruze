@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CRUZE_TP_FR_241: 209
   response: 641056250060D10
+- expected_values:
+    CRUZE_TP_FR_241: 261.25
+  response: '641056250061054'
