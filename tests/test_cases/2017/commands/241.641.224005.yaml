@@ -1,5 +1,8 @@
 command_id: 241.641.224005
 test_cases:
 - expected_values:
+    CRUZE_TID_FL: 1482889047
+  response: '6410762400558631757'
+- expected_values:
     CRUZE_TID_FL: 1484560518
   response: 64107624005587C9886

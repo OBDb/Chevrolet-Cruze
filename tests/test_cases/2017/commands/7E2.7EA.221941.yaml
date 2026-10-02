@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.221941
+test_cases:
+- expected_values:
+    CRUZE_TRANS_ISS: 1320.75
+  response: 7EA0562194114A3
+- expected_values:
+    CRUZE_TRANS_ISS: 6739.25
+  response: 7EA05621941694D
