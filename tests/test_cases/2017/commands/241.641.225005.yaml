@@ -4,5 +4,8 @@ test_cases:
     CRUZE_TP_FL_241: 195.25
   response: 641056250050C34
 - expected_values:
+    CRUZE_TP_FL_241: 225.5
+  response: '641056250050E18'
+- expected_values:
     CRUZE_TP_FL_241: 261.25
   response: '641056250051054'
