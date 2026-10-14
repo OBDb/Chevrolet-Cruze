@@ -4,6 +4,18 @@ test_cases:
     CRUZE_TP_FR_241: 209
   response: 641056250060D10
 - expected_values:
+    CRUZE_TP_FR_241: 222.75
+  response: 641056250060DEC
+- expected_values:
+    CRUZE_TP_FR_241: 225.5
+  response: '641056250060E18'
+- expected_values:
+    CRUZE_TP_FR_241: 228.25
+  response: '641056250060E44'
+- expected_values:
+    CRUZE_TP_FR_241: 231
+  response: '641056250060E70'
+- expected_values:
     CRUZE_TP_FR_241: 244.75
   response: 641056250060F4C
 - expected_values:
