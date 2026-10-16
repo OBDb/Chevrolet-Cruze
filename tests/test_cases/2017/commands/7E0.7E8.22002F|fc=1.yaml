@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22002F|fc=1
 test_cases:
 - expected_values:
-    CRUZE_FLI: 11.37255
-  response: 7E80462002F1D
+    CRUZE_FLI: 0
+  response: 7E80462002F00
 - expected_values:
     CRUZE_FLI: 96.86275
   response: 7E80462002FF7

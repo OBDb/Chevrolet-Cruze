@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     CRUZE_TP_RL_241: 239.25
   response: 641056250080EF4
+- expected_values:
+    CRUZE_TP_RL_241: 242
+  response: 641056250080F20
