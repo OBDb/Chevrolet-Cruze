@@ -4,8 +4,8 @@ test_cases:
     CRUZE_CTRL_MODULE_V: 0
   response: '7E8056200420000'
 - expected_values:
-    CRUZE_CTRL_MODULE_V: 14.587
-  response: 7E80562004238FB
+    CRUZE_CTRL_MODULE_V: 14.846
+  response: 7E80562004239FE
 - expected_values:
     CRUZE_CTRL_MODULE_V: 15.376
   response: 7E8056200423C10
